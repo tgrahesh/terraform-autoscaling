@@ -1,4 +1,5 @@
-Highly Available Web Application Deployment Documentation:
+AWS Auto Scaling Group (ASG) Terraform module
+Terraform module which creates Auto Scaling resources on AWS.
 VPC Module:
 	• Create VPC
 	• Create Internet Gateway and attach to created VPC
